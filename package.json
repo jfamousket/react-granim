@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/cuining/react-granim#readme",
   "dependencies": {
-    "granim": "^1.0.6",
+    "granim": "^2.0.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1"
   },
@@ -33,6 +33,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
-    "prop-types": "^15.5.8"
+    "prop-types": "^15.5.8",
+    "react-scripts": "^3.3.1"
   }
 }
